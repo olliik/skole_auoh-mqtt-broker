@@ -1,0 +1,17 @@
+{
+  "name": "mqtt-broker-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.40.1",
+    "dotenv": "^8.2.0",
+    "websocket-stream": "^5.5.2"
+  }
+}
